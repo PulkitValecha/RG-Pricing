@@ -2357,7 +2357,7 @@ a.logo:hover{
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
     
-	padding: 140px 0;
+	padding: 50px 0;
 }
 .small-section{
 	padding: 70px 0;
@@ -2673,6 +2673,7 @@ a.logo:hover{
     text-align: center;
     letter-spacing: 0.5em;
     line-height: 1.4;
+    color: black;
 }
 .section-more{
     margin-top: 7px;
